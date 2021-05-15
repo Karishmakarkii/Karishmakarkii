@@ -35,3 +35,13 @@
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+
+<br><br>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Karishmakarkii's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Karishmakarkii&show_icons=true&hide_border=true" />
+
+</details>
